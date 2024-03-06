@@ -2,4 +2,4 @@
 
 ## Streamlit Snippet
 
-![PyChain Streamlit](snippets/streamlit_snippet.PNG)
+![PyChain Streamlit](Snippets/streamlit_snippet.PNG)
